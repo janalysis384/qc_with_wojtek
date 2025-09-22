@@ -5,22 +5,23 @@
 always when you want to use git write git
 
 Some basic Git commands are:
-
+### shoow status
 ```
 git status
 ```
-#### this tells you of there is anything to change
+
+ this tells you of there is anything to change
 ```
 git add
 ```
-### add something to the inbetween
+ add something to the inbetween
 ```
 git commit
 ```
-### send it on its merry way and hope it works 
+send it on its merry way and hope it works 
 
 
 ```
 git mv
 ```
-### mv a file or rename old_name new_name
+ mv a file or rename old_name new_name
