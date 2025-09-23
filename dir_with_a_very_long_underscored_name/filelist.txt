@@ -1,0 +1,6 @@
+total 0
+drwxr-xr-x 1 janina janina 512 Sep 23 11:27 .
+drwxr-xr-x 1 janina janina 512 Sep 23 11:18 ..
+-rw-r--r-- 1 janina janina 370 Sep 23 11:27 another_file.txt
+-rw-r--r-- 1 janina janina   0 Sep 23 11:29 filelist.txt
+drwxr-xr-x 1 janina janina 512 Sep 23 11:25 subdir_with_long_name
